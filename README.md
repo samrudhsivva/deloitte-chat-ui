@@ -50,7 +50,7 @@ A **modern and interactive AI-powered chat interface** designed to help auditors
 ## **🔧 Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/deloitte-chat-ui.git
+git clone https://github.com/samrudhsivva/deloitte-chat-ui.git
 cd deloitte-chat-ui
 ```
 
@@ -105,8 +105,8 @@ This project is **open-source** under the **MIT License**. Feel free to **use an
 
 ## **💬 Contact & Support**
 For questions or suggestions, reach out:  
-📧 **Email:** your-email@example.com  
-🐙 **GitHub:** [Your GitHub Profile](https://github.com/YOUR_USERNAME)  
+📧 **Email:** samrudh5000@gmail.com 
+🐙 **GitHub:** [Your GitHub Profile](https://github.com/samrudhsivva)  
 
 ---
 
