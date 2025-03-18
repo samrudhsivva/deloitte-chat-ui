@@ -17,11 +17,6 @@ A **modern and interactive AI-powered chat interface** designed to help auditors
 
 ---
 
-## **📸 Screenshots**
-> Add some **screenshots** of your UI here for better visibility.  
-
----
-
 ## **🛠️ Technologies Used**
 - **Frontend:** React.js, CSS (Custom, No Tailwind), Framer Motion  
 - **Backend:** Node.js, Express.js  
